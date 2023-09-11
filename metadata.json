@@ -1,0 +1,13 @@
+{
+    "name" : "Extended Bubbles",
+    "description" : "Extended smooth and colorful bubbles",
+    "image" : "https://amethyst-watery-wildebeest-997.mypinata.cloud/ipfs/QmaRF4n6APizL9rMMQtXrohLQU6oKqeV2AWVJwNi6bkwjw", 
+    "length": "702x859 pixels",
+    "size": "99.9 KiB",
+    "CID": "QmaRF4n6APizL9rMMQtXrohLQU6oKqeV2AWVJwNi6bkwjw",
+    "attributes" : [{
+        "trait": "flowery-link",
+        "background" : "Cool",
+        "color": "Blue"
+    }]  
+}
